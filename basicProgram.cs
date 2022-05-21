@@ -18,7 +18,7 @@ Console.WriteLine(amount);
 																											Console.WriteLine(isValid);
 																													Console.WriteLine(name);
 
-
+console.writeLine(name);
 																														}
 }
 
